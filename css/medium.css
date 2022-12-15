@@ -7,7 +7,7 @@
       width: 545px;
       height: 300px;
       padding: 55px 0 0 0;
-      background: rgba(224, 212, 38, 0.9);
+      background: rgba(130, 78, 10);
       border-radius: 0px 292px 0px 0px;
     }
   
@@ -24,6 +24,7 @@
       padding-left: 35px;
       margin: -45px 0 0 0;
     }
+    
   
     .transhero p {
       font-size: 14px;
